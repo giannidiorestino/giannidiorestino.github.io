@@ -1,3 +1,3 @@
 # giannidiorestino.github.io
-![GP](pistone.jpeg)
+![GP](giannidiorestino.github.io/docs/pistone.jpeg)
 TENTATIVE NEW PAGE
