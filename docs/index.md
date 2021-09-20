@@ -1,6 +1,8 @@
+![GP](docs/pistone.jpeg)
+
 [main web page](https://www.giannidiorestino.it/index.html)
 
-some material will eventually go to this page
+Some material from the main page will eventually go to this page
 
 Memo:
 
