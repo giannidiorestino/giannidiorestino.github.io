@@ -1,4 +1,4 @@
-![GP](pistone.jpeg)
+![GP](05.2013.JPG)
 
 [main web page](https://www.giannidiorestino.it/index.html)
 
