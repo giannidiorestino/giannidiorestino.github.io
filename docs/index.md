@@ -1,4 +1,4 @@
-![GP](05.2013.JPG)
+![GP](27.12.2024.jpeg)
 
 [main web page](https://www.giannidiorestino.it/index.html)
 

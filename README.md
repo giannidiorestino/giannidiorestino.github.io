@@ -1,5 +1,5 @@
 # giannidiorestino.github.io
-![GP](docs/pistone.jpeg)
+![GP](docs/27/12/2024.jpeg)
 
 TENTATIVE NEW PAGE
-new try 2025
+new try \today
