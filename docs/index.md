@@ -1,6 +1,7 @@
 ![GP](27.12.2024.jpeg)
 
-<img src="27.12.2024.jpeg" data-canonical-src="27.12.2024.jpeg" width="200" />
+<img src="27.12.2024.jpeg" data-canonical-src="27.12.2024.jpeg" width="200" alt="Natale 2024"/>
+<img src="27.12.2024.jpeg" width="200" alt="Natale 2024"/>
 
 [main web page](https://www.giannidiorestino.it/index.html)
 
