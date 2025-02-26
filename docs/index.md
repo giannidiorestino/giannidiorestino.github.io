@@ -1,5 +1,7 @@
 ![GP](27.12.2024.jpeg)
 
+<img src="27.12.2024.jpeg" data-canonical-src="27.12.2024.jpeg" width="200" />
+
 [main web page](https://www.giannidiorestino.it/index.html)
 
 Some material from the main page will eventually go to this page
